@@ -4,11 +4,15 @@ const useTypewriter = (text, speed = 50) => {
   const [displayText, setDisplayText] = useState("");
 
   useEffect(() => {
+    setDisplayText("");
+
     let i = 0;
+    setDisplayText(text.charAt(0));
+
     const typingInterval = setInterval(() => {
+      i++;
       if (i < text.length) {
         setDisplayText((prevText) => prevText + text.charAt(i));
-        i++;
       } else {
         clearInterval(typingInterval);
       }
