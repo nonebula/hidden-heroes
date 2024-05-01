@@ -13,17 +13,25 @@ const CharacterCard = ({
   },
 }) => {
   return (
-    <div className="card">
+    <div className="card flex flex-col items-center border border-lime-600 rounded-lg font-roboto-mono bg-neutral-950 w-1/2">
       <div>
-        <img src={profileimg} alt={name} />
-        <h2>{name}</h2>
-        <p>Age: {age}</p>
-        <p>Gender: {gender}</p>
-        <p>Superpower: {superpower}</p>
-        <p>Location: {location}</p>
+        <img src={profileimg} alt={name} className="size-72" />
+        <h2 className="font-bold text-2xl underline text-lime-700 mb-2 animate-pulse">{name}</h2>
+        <p className="text-lime-500 mb-2">
+          <strong>Age:</strong> {age}
+        </p>
+        <p className="text-lime-500 mb-2">
+          <strong>Gender:</strong> {gender}
+        </p>
+        <p className="text-lime-500 mb-2">
+          <strong>Superpower:</strong> {superpower}
+        </p>
+        <p className="text-lime-500 mb-5">
+          <strong>Location:</strong> {location}
+        </p>
         {/* <p>Discovered: {discovered}</p> */}
       </div>
-      <div>
+      <div className="hidden">
         <h2>Background</h2>
         <p>{background}</p>
       </div>
