@@ -9,7 +9,7 @@ const CharacterCard = ({
     superpower,
     location,
     background,
-    discovered,
+    // discovered,
   },
 }) => {
   return (
@@ -21,7 +21,7 @@ const CharacterCard = ({
         <p>Gender: {gender}</p>
         <p>Superpower: {superpower}</p>
         <p>Location: {location}</p>
-        <p>Discovered: {discovered}</p>
+        {/* <p>Discovered: {discovered}</p> */}
       </div>
       <div>
         <h2>Background</h2>
@@ -40,7 +40,7 @@ CharacterCard.propTypes = {
     superpower: PropTypes.string.isRequired,
     location: PropTypes.string.isRequired,
     background: PropTypes.string.isRequired,
-    discovered: PropTypes.string.isRequired,
+    // discovered: PropTypes.string.isRequired,
   }).isRequired,
 };
 
