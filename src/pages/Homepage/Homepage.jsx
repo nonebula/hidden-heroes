@@ -1,6 +1,8 @@
+import { useNavigate } from "react-router";
 import Typewriter from "./Typewriter";
 
 const Homepage = () => {
+  const navigate = useNavigate();
   return (
     <div className="bg-black border border-lime-500 px-16 mx-16 flex flex-col items-center font-roboto-mono">
       <div className="flex flex-col justify-center items-center">
@@ -22,7 +24,10 @@ const Homepage = () => {
       <p className="text-xl mt-20 pt-20 animate-pulse text-lime-700">
         Who will you discover today?
       </p>
-      <button className="bg-lime-500 h-16 w-32 rounded-lg text-3xl font-bold mt-20 mb-20 animate-pulse">
+      <button
+        className="bg-lime-500 h-16 w-32 rounded-lg text-3xl font-bold mt-20 mb-20 animate-pulse"
+        onClick={() => navigate("/discover")}
+      >
         Start
       </button>
     </div>
