@@ -26,7 +26,7 @@ function Map({ onMarkerClick }) {
             <h2>{character.name}</h2>
             <p>{character.location}</p>
             <p>{character.superpower}</p>
-            <p>{character.background}</p>
+            {/* <p>{character.background}</p> */}
           </Popup>
         </Marker>
       ))}
