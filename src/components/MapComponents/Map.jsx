@@ -26,13 +26,15 @@ function Map({
           eventHandlers={{
             click: () => handlePolygonClick(character),
           }}
+          color="transparent"
+          fillOpacity={0}
         >
           <Popup>
             <div className="popup-content font-roboto-mono">
               <CharacterCard character={character} />
               <button
                 className="btn bg-lime-700 rounded-lg w-full h-10 text-white font-bold"
-                onClick={handleDiscover}
+                onClick={() => handleDiscover(character.id)}
               >
                 Discover
               </button>
