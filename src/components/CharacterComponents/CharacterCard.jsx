@@ -10,7 +10,6 @@ const CharacterCard = ({
     superpower,
     location,
     background,
-    // discovered,
   },
 }) => {
   const [showBackground, setShowBackground] = useState(false);
@@ -58,7 +57,6 @@ CharacterCard.propTypes = {
     superpower: PropTypes.string.isRequired,
     location: PropTypes.string.isRequired,
     background: PropTypes.string.isRequired,
-    // discovered: PropTypes.string.isRequired,
   }).isRequired,
 };
 
