@@ -1,5 +1,5 @@
 import CharacterCard from "./CharacterCard";
-import characters from "../data/characters.json";
+import characters from "../../data/characters.json";
 
 const Characters = () => {
   return (
