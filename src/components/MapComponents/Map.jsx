@@ -1,8 +1,13 @@
-import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
+import { MapContainer, Polygon, Popup, TileLayer } from "react-leaflet";
 import PropTypes from "prop-types";
 import CharacterCard from "../CharacterComponents/CharacterCard";
 
-function Map({ characters, setCharacters, handleDiscover }) {
+function Map({
+  characters,
+  handleDiscover,
+  handlePolygonClick,
+  selectedCharacter,
+}) {
   return (
     <MapContainer
       className="mb-16"
@@ -15,19 +20,25 @@ function Map({ characters, setCharacters, handleDiscover }) {
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
       />
       {characters.map((character) => (
-        <Marker key={character.id} position={character.position}>
+        <Polygon
+          key={character.id}
+          positions={character.polygon}
+          eventHandlers={{
+            click: () => handlePolygonClick(character),
+          }}
+        >
           <Popup>
             <div className="popup-content font-roboto-mono">
               <CharacterCard character={character} />
               <button
                 className="btn bg-lime-700 rounded-lg w-full h-10 text-white font-bold"
-                onClick={() => handleDiscover(character.id)}
+                onClick={handleDiscover}
               >
                 Discover
               </button>
             </div>
           </Popup>
-        </Marker>
+        </Polygon>
       ))}
     </MapContainer>
   );
@@ -37,6 +48,8 @@ Map.propTypes = {
   characters: PropTypes.array.isRequired,
   setCharacters: PropTypes.func.isRequired,
   handleDiscover: PropTypes.func.isRequired,
+  handlePolygonClick: PropTypes.func.isRequired,
+  selectedCharacter: PropTypes.object,
 };
 
 export default Map;
