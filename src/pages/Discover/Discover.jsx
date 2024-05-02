@@ -1,7 +1,7 @@
 import { useState } from "react";
 import Map from "../../components/MapComponents/Map";
 import initialCharacters from "../../data/characters.json";
-import Characters from "../../components/CharacterComponents/Characters";
+import DiscoveredCharacters from "../../components/CharacterComponents/DiscoveredCharacter";
 
 const Discover = () => {
   const [selectedCharacter, setSelectedCharacter] = useState(null);
@@ -43,9 +43,9 @@ const Discover = () => {
         handleDiscover={handleDiscover}
         onPopupClose={handleCloseCard}
       />
-      {discoveredCharacters.map((char) => (
-        <Characters key={char.id} character={char} />
-      ))}
+      {discoveredCharacters.length > 0 && (
+        <DiscoveredCharacters characters={discoveredCharacters} />
+      )}
     </div>
   );
 };

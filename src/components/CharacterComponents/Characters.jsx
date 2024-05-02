@@ -1,10 +1,11 @@
+import React from "react";
 import CharacterCard from "./CharacterCard";
-import characters from "../../data/characters.json";
+import charactersData from "../../data/characters.json";
 
 const Characters = () => {
   return (
-    <div className="container">
-      {characters.map((character) => (
+    <div className="grid grid-cols-2 gap-4">
+      {charactersData.map((character) => (
         <CharacterCard key={character.id} character={character} />
       ))}
     </div>
