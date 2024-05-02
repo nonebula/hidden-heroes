@@ -1,9 +1,8 @@
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
-import characters from "../../data/characters.json";
-
 import PropTypes from "prop-types";
+import CharacterCard from "../CharacterComponents/CharacterCard";
 
-function Map({ onMarkerClick }) {
+function Map({ characters, setCharacters, handleDiscover }) {
   return (
     <MapContainer
       className="mb-16"
@@ -16,17 +15,17 @@ function Map({ onMarkerClick }) {
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
       />
       {characters.map((character) => (
-        <Marker
-          key={character.id}
-          position={character.position}
-          onClick={() => onMarkerClick(character)}
-        >
+        <Marker key={character.id} position={character.position}>
           <Popup>
-            <img src={character.profileimg} alt={character.name} />
-            <h2>{character.name}</h2>
-            <p>{character.location}</p>
-            <p>{character.superpower}</p>
-            {/* <p>{character.background}</p> */}
+            <div className="popup-content font-roboto-mono">
+              <CharacterCard character={character} />
+              <button
+                className="btn bg-lime-700 rounded-lg w-full h-10 text-white font-bold"
+                onClick={() => handleDiscover(character.id)}
+              >
+                Discover
+              </button>
+            </div>
           </Popup>
         </Marker>
       ))}
@@ -36,7 +35,8 @@ function Map({ onMarkerClick }) {
 
 Map.propTypes = {
   characters: PropTypes.array.isRequired,
-  onMarkerClick: PropTypes.func.isRequired,
+  setCharacters: PropTypes.func.isRequired,
+  handleDiscover: PropTypes.func.isRequired,
 };
 
 export default Map;
