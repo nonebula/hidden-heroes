@@ -2,6 +2,7 @@ import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import characters from "../../data/characters.json";
 
 import PropTypes from "prop-types";
+import CharacterCard from "../CharacterComponents/CharacterCard";
 
 function Map({ onMarkerClick }) {
   return (
@@ -22,11 +23,9 @@ function Map({ onMarkerClick }) {
           onClick={() => onMarkerClick(character)}
         >
           <Popup>
-            <img src={character.profileimg} alt={character.name} />
-            <h2>{character.name}</h2>
-            <p>{character.location}</p>
-            <p>{character.superpower}</p>
-            {/* <p>{character.background}</p> */}
+            <div className="popup-content">
+              <CharacterCard character={character} />
+            </div>
           </Popup>
         </Marker>
       ))}
