@@ -16,7 +16,7 @@ const CharacterCard = ({
 
   return (
     <div
-      className="card relative flex flex-col items-center border border-lime-600 rounded-lg font-roboto-mono bg-neutral-950 w-1/2 hover:scroll-smooth scale-90 hover:shadow-lg hover:border-lime-600 hover:opacity-100 hover:scale-100 transition-all duration-300 ease-in-out"
+      className="card relative flex flex-col items-center border border-lime-600 rounded-lg font-roboto-mono bg-neutral-950 hover:scroll-smooth scale-90 hover:shadow-lg hover:border-lime-600 hover:opacity-100 hover:scale-100 transition-all duration-300 ease-in-out"
       onMouseEnter={() => setShowBackground(true)}
       onMouseLeave={() => setShowBackground(false)}
     >

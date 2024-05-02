@@ -1,10 +1,20 @@
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import characters from "../../data/characters.json";
-
+import { useState } from "react";
 import PropTypes from "prop-types";
 import CharacterCard from "../CharacterComponents/CharacterCard";
 
-function Map({ onMarkerClick }) {
+function Map() {
+  const [selectedCharacter, setSelectedCharacter] = useState(null);
+
+  const handleMarkerClick = (character) => {
+    setSelectedCharacter(character);
+  };
+
+  const handleCloseCard = () => {
+    setSelectedCharacter(null);
+  };
+
   return (
     <MapContainer
       className="mb-16"
@@ -20,15 +30,22 @@ function Map({ onMarkerClick }) {
         <Marker
           key={character.id}
           position={character.position}
-          onClick={() => onMarkerClick(character)}
+          onClick={() => handleMarkerClick(character)}
         >
           <Popup>
             <div className="popup-content">
+              <h3>{character.name}</h3>
               <CharacterCard character={character} />
             </div>
           </Popup>
         </Marker>
       ))}
+      {selectedCharacter && (
+        <CharacterCard
+          character={selectedCharacter}
+          onClose={handleCloseCard}
+        />
+      )}
     </MapContainer>
   );
 }
