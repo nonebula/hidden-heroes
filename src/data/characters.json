@@ -491,114 +491,202 @@
     ]
   },
   {
-    "id": 28,
-    "name": "Aether",
-    "age": 90,
-    "gender": "Male",
-    "profileimg": "src/assets/images/characters/aether.png",
-    "superpower": "Chronokinesis",
-    "location": "Addis Ababa",
-    "background": "Aether, a thirty-year-old man, wandered the ancient streets of Addis Ababa, where the echoes of time whispered tales of ages past. From a young age, he felt a profound connection to the passage of time, a connection that blossomed into the power of chronokinesis. With a mere thought, Aether could manipulate the flow of time, speeding it up or slowing it down at will. His journey through the historic sites of Ethiopia taught him the delicate balance of past, present, and future, and the timeless power that lay within.",
+    "id": 64,
+    "name": "Hayden",
+    "age": 27,
+    "gender": "Transgender Male",
+    "profileimg": "src/assets/images/characters/hayden.png",
+    "superpower": "Illusion Manipulation",
+    "location": "Seattle",
+    "background": "Hayden, a twenty-seven-year-old man, wandered through the bustling streets of Seattle, where the misty atmosphere of the Pacific Northwest mirrored her extraordinary abilities. From a young age, he possessed the power of illusion manipulation, allowing him to create and control illusions at will. Hayden's journey through the dynamic city of Seattle taught him the blurred lines between reality and perception.",
     "discovered": false,
-    "position": [9.0248, 38.7469],
+    "position": [47.6062, -122.3321],
     "polygon": [
-      [8.9316, 38.6874],
-      [9.1086, 38.6874],
-      [9.1086, 38.8068],
-      [8.9316, 38.8068]
+      [47.494, -122.441],
+      [47.494, -122.231],
+      [47.734, -122.231],
+      [47.734, -122.441]
     ]
   },
   {
-    "id": 29,
-    "name": "Blaze",
-    "age": 26,
-    "gender": "Male",
-    "profileimg": "src/assets/images/characters/blaze.png",
-    "superpower": "Pyrokinesis",
-    "location": "Kinshasa",
-    "background": "Blaze, a twenty-six-year-old man, navigated the bustling streets of Kinshasa with a quiet intensity. His journey to discover the extent of his pyrokinetic abilities began amidst the vibrant markets and lively neighborhoods of the Congolese capital. With a mere thought, Blaze could ignite flames or manipulate existing fire to his will. However, he struggled to control the intensity of his powers, often leaving a trail of unintentional destruction in his wake. Determined to master his abilities, Blaze embarked on a solitary quest through the dense jungles of the Congo, seeking the wisdom of ancient civilizations to harness the fiery potential within him.",
-    "discovered": false,
-    "position": [-4.4419, 15.2663],
-    "polygon": [
-      [-4.3268, 15.1849],
-      [-4.3089, 15.2885],
-      [-4.4899, 15.3331],
-      [-4.5104, 15.2259]
-    ]
-  },
-
-  {
-    "id": 30,
-    "name": "Nightbyrde",
+    "id": 65,
+    "name": "Emerson",
     "age": 29,
-    "gender": "Female",
-    "profileimg": "src/assets/images/characters/nightbyrde.png",
-    "superpower": "Aerokinesis",
-    "location": "Abidjan",
-    "background": "Nightbyrde, a twenty-nine-year-old woman, found herself amidst the vibrant landscapes of Abidjan, where the wind whispered secrets of the coastal city. From a young age, she sensed a profound connection with the air around her, a connection that blossomed into the power of aerokinesis. With a gentle touch, Nightbyrde could manipulate the currents of the atmosphere, summoning breezes or conjuring powerful gusts at will. Her journey through the bustling streets and sandy shores of Côte d'Ivoire taught her the delicate balance of nature and the intrinsic harmony of wind and sea.",
+    "gender": "Male",
+    "profileimg": "src/assets/images/characters/emerson.png",
+    "superpower": "Chronoportation",
+    "location": "Atlanta",
+    "background": "Emerson, a twenty-nine-year-old man, navigated the bustling streets of Atlanta, where the vibrant culture of Georgia's capital city provided the perfect backdrop for his extraordinary abilities. From a young age, he possessed the power of chronoportation, allowing him to teleport through time. Emerson's journey through the dynamic city of Atlanta taught him the fluidity of history.",
     "discovered": false,
-    "position": [5.3599, -4.0083],
+    "position": [33.749, -84.388],
     "polygon": [
-      [5.3129, -4.0672],
-      [5.3899, -4.0672],
-      [5.3899, -3.9266],
-      [5.3129, -3.9266]
+      [33.647, -84.539],
+      [33.647, -84.289],
+      [33.876, -84.289],
+      [33.876, -84.539]
     ]
   },
 
   {
-    "id": 31,
-    "name": "Aquila",
-    "age": 35,
-    "gender": "Non-Binary",
-    "profileimg": "src/assets/images/characters/aquila.png",
-    "superpower": "Electrokinesis",
-    "location": "Dar es Salaam",
-    "background": "Aquila, a thirty-five-year-old man, roamed the vibrant streets of Dar es Salaam, where the rhythm of life pulsed with the energy of the Tanzanian city. From a young age, he possessed an electrifying presence, drawn to the crackling power of lightning storms that swept across the coastal skyline. Aquila's abilities manifested in a surge of electricity that coursed through his veins, granting him the power of electrokinesis. With a gesture, he could summon bolts of lightning or manipulate the flow of currents with precision. His journey through the bustling metropolis of Dar es Salaam taught him the importance of balance and control in wielding such formidable power.",
+    "id": 68,
+    "name": "Logan",
+    "age": 69,
+    "gender": "Male",
+    "profileimg": "src/assets/images/characters/logan.png",
+    "superpower": "Elasticity",
+    "location": "Las Vegas",
+    "background": "Logan, a twenty-nine-year-old man, navigated the bustling streets of Las Vegas, where the neon lights of Nevada's entertainment capital provided the perfect backdrop for his extraordinary abilities. From a young age, he possessed the power of elasticity, allowing his body to stretch and contort in extraordinary ways. Logan's journey through the dynamic city of Las Vegas taught him the flexibility of life.",
     "discovered": false,
-    "position": [-6.7924, 39.2083],
+    "position": [36.1699, -115.1398],
     "polygon": [
-      [-6.8407, 39.1828],
-      [-6.7633, 39.1828],
-      [-6.7633, 39.2576],
-      [-6.8407, 39.2576]
+      [36.074, -115.301],
+      [36.074, -115.083],
+      [36.259, -115.083],
+      [36.259, -115.301]
     ]
   },
-
   {
-    "id": 32,
-    "name": "Tundra",
+    "id": 69,
+    "name": "Nova",
+    "age": 59,
+    "gender": "Transgender Female",
+    "profileimg": "src/assets/images/characters/nova.png",
+    "superpower": "Energy Projection",
+    "location": "Bangkok",
+    "background": "Nova, a woman of twenty-nine, was born and raised amidst the bustling streets of Bangkok. From a young age, she grappled with the disconnect between her gender identity and the body she was born into. Nova's journey to self-acceptance was marked by internal struggles and societal pressures. It was during a moment of intense emotional release, amidst the vibrant energy of Bangkok's nightlife, that bursts of energy first emanated from her being. With time, self-reflection, and the support of her community, Nova learned to harness and control this energy, using it to protect herself and others. Her journey through Bangkok's diverse and accepting culture led her to fully embrace her identity and recognize her powers as an integral part of herself.",
+    "discovered": false,
+    "position": [13.7563, 100.5018],
+    "polygon": [
+      [13.585, 100.347],
+      [13.93, 100.347],
+      [13.93, 100.964],
+      [13.585, 100.964]
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Serenade",
+    "age": 46,
+    "gender": "Male",
+    "profileimg": "src/assets/images/characters/serenade.png",
+    "superpower": "Sound Manipulation",
+    "location": "Birmingham",
+    "background": "Serenade, a man of thirty-six, was born in Birmingham. From a young age, he was drawn to music and sound, finding solace in the melodies that filled his world. Serenade discovered his powers during a moment of emotional resonance, where his voice seemed to have a profound effect on his surroundings. With practice, he learned to manipulate sound waves, creating beautiful symphonies or deafening cacophonies at will. Serenade's journey taught him the power of expression and the ability to find harmony within himself.",
+    "discovered": false,
+    "position": [52.4862, -1.8904],
+    "polygon": [
+      [52.401, -1.963],
+      [52.562, -1.963],
+      [52.562, -1.72],
+      [52.401, -1.72]
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Camila",
     "age": 28,
     "gender": "Female",
-    "profileimg": "src/assets/images/characters/tundra.png",
-    "superpower": "Cryokinesis",
-    "location": "Abuja",
-    "background": "Tundra, a twenty-eight-year-old woman, traversed the urban sprawl of Abuja, where the beat of the city echoed through its streets. From a young age, she harbored an affinity for the cold, a connection that blossomed into the power of cryokinesis. With a mere thought, Tundra could freeze objects or lower temperatures in her vicinity to freezing levels. Her journey through the diverse landscapes of Nigeria taught her the delicate balance of ice and heat, and the chilling beauty that resided within.",
+    "profileimg": "src/assets/images/characters/camila.png",
+    "superpower": "Chronokinesis",
+    "location": "Santiago",
+    "background": "Camila, a twenty-eight-year-old woman, roamed the vibrant streets of Santiago, where the echoes of the past intertwined with the present in the heart of Chile. From a young age, she possessed the extraordinary ability of chronokinesis, allowing her to manipulate time itself. Camila's journey through the historic city of Santiago taught her the delicate balance between preserving history and embracing the future.",
     "discovered": false,
-    "position": [9.0579, 7.4951],
+    "position": [-33.4489, -70.6693],
     "polygon": [
-      [9.0539, 7.3847],
-      [9.0761, 7.3847],
-      [9.0761, 7.6316],
-      [9.0539, 7.6316]
+      [-33.4608, -70.6928],
+      [-33.4608, -70.6487],
+      [-33.4227, -70.6487],
+      [-33.4227, -70.6928]
     ]
   },
   {
-    "id": 33,
-    "name": "Barry",
-    "age": 34,
+    "id": 47,
+    "name": "Carlos",
+    "age": 31,
     "gender": "Male",
-    "profileimg": "src/assets/images/characters/barry.png",
-    "superpower": "Instant Pizza Generation",
-    "location": "Manchester",
-    "background": "Barry, a thirty-four-year-old man, strolled through the lively streets of Manchester, where the eclectic energy of the city matched his unique abilities. Unlike others with traditional superpowers, Barry had the uncanny ability to instantly generate pizzas of any kind, right out of thin air. From classic margheritas to exotic Hawaiian, Barry's strange talent brought joy and confusion to the people of Manchester, earning him the nickname 'The Pizza Wizard'.",
+    "profileimg": "src/assets/images/characters/carlos.png",
+    "superpower": "Elasticity",
+    "location": "São Paulo",
+    "background": "Carlos, a thirty-one-year-old man, wandered through the bustling streets of São Paulo, where the rhythm of Brazil's largest city danced to the beat of his extraordinary abilities. From a young age, he possessed the unique power of elasticity, allowing his body to stretch and contort in ways that defied human limitations. Carlos's journey through the dynamic metropolis of São Paulo taught him the flexibility and resilience of the human spirit.",
     "discovered": false,
-    "position": [53.4808, -2.2426],
+    "position": [-23.5505, -46.6333],
     "polygon": [
-      [53.421, -2.315],
-      [53.421, -2.178],
-      [53.517, -2.178],
-      [53.517, -2.315]
+      [-23.5901, -46.6916],
+      [-23.5901, -46.5743],
+      [-23.4576, -46.5743],
+      [-23.4576, -46.6916]
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Isabella",
+    "age": 27,
+    "gender": "Female",
+    "profileimg": "src/assets/images/characters/isabella.png",
+    "superpower": "Electrokinesis",
+    "location": "Bogotá",
+    "background": "Isabella, a twenty-seven-year-old woman, navigated the bustling streets of Bogotá, where the energy of Colombia's capital city fueled her extraordinary abilities. From a young age, she possessed the power of electrokinesis, allowing her to control and manipulate electricity at will. Isabella's journey through the vibrant streets of Bogotá taught her the electrifying potential of her powers.",
+    "discovered": false,
+    "position": [4.711, -74.0721],
+    "polygon": [
+      [4.5815, -74.256],
+      [4.5815, -73.978],
+      [4.837, -73.978],
+      [4.837, -74.256]
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Antonio",
+    "age": 30,
+    "gender": "Male",
+    "profileimg": "src/assets/images/characters/antonio.png",
+    "superpower": "Teleportation",
+    "location": "Guadalajara",
+    "background": "Antonio, a thirty-year-old man, roamed the vibrant streets of Guadalajara, where the rich tapestry of Mexican culture provided the perfect backdrop for his extraordinary abilities. From a young age, he possessed the gift of teleportation, allowing him to instantaneously transport himself from one location to another. Antonio's journey through the historic city of Guadalajara taught him the importance of embracing change and seizing opportunities.",
+    "discovered": false,
+    "position": [20.6597, -103.3496],
+    "polygon": [
+      [20.6162, -103.402],
+      [20.6162, -103.296],
+      [20.7315, -103.296],
+      [20.7315, -103.402]
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Valentina",
+    "age": 29,
+    "gender": "Female",
+    "profileimg": "src/assets/images/characters/valentina.png",
+    "superpower": "Biokinesis",
+    "location": "Quito",
+    "background": "Valentina, a twenty-nine-year-old woman, wandered through the historic streets of Quito, where the ancient mysteries of Ecuador whispered to her extraordinary abilities. From a young age, she possessed the rare gift of biokinesis, allowing her to manipulate the biological functions of living organisms. Valentina's journey through the heart of Quito taught her the delicate balance between life and nature.",
+    "discovered": false,
+    "position": [-0.1807, -78.4678],
+    "polygon": [
+      [-0.245, -78.568],
+      [-0.245, -78.426],
+      [-0.092, -78.426],
+      [-0.092, -78.568]
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Luisa",
+    "age": 77,
+    "gender": "Female",
+    "profileimg": "src/assets/images/characters/luisa.png",
+    "superpower": "Phasing",
+    "location": "San Juan",
+    "background": "Luisa, a twenty-seven-year-old woman, navigated the bustling streets of San Juan, where the rhythm of Puerto Rico's vibrant culture danced to the beat of her extraordinary abilities. From a young age, she possessed the power of phasing, allowing her to pass through solid objects with ease. Luisa's journey through the historic city of San Juan taught her the fluidity of boundaries and the power of freedom.",
+    "discovered": false,
+    "position": [18.4655, -66.1057],
+    "polygon": [
+      [18.393, -66.178],
+      [18.393, -66.025],
+      [18.531, -66.025],
+      [18.531, -66.178]
     ]
   },
 
@@ -620,60 +708,7 @@
       [31.2157, 121.4851]
     ]
   },
-  {
-    "id": 35,
-    "name": "Raj",
-    "age": 32,
-    "gender": "Male",
-    "profileimg": "src/assets/images/characters/raj.png",
-    "superpower": "Teleportation",
-    "location": "Mumbai",
-    "background": "Raj, a thirty-two-year-old man, navigated the bustling streets of Mumbai, where the chaotic energy of India's financial capital fueled his extraordinary abilities. From a young age, he possessed the gift of teleportation, allowing him to instantaneously transport himself from one location to another. Raj's journey through the vibrant tapestry of Mumbai taught him the value of connections and the power of being present.",
-    "discovered": false,
-    "position": [19.076, 72.8777],
-    "polygon": [
-      [19.059, 72.857],
-      [19.093, 72.857],
-      [19.093, 72.897],
-      [19.059, 72.897]
-    ]
-  },
-  {
-    "id": 36,
-    "name": "Li Wei",
-    "age": 29,
-    "gender": "Female",
-    "profileimg": "src/assets/images/characters/li_wei.png",
-    "superpower": "Geomancy",
-    "location": "Beijing",
-    "background": "Li Wei, a twenty-nine-year-old woman, roamed the historic streets of Beijing, where the ancient art of geomancy shaped the very essence of the city. From a young age, she possessed the rare ability of geomancy, allowing her to manipulate the earth and its energies. Li Wei's journey through the cultural heart of China taught her the importance of balance and harmony in the natural world.",
-    "discovered": false,
-    "position": [39.9042, 116.4074],
-    "polygon": [
-      [39.882, 116.38],
-      [39.926, 116.38],
-      [39.926, 116.432],
-      [39.882, 116.432]
-    ]
-  },
-  {
-    "id": 37,
-    "name": "Nikhil",
-    "age": 30,
-    "gender": "Male",
-    "profileimg": "src/assets/images/characters/nikhil.png",
-    "superpower": "Illusion Manipulation",
-    "location": "Delhi",
-    "background": "Nikhil, a thirty-year-old man, wandered through the vibrant streets of Delhi, where the hustle and bustle of India's capital provided the perfect cover for his extraordinary abilities. From a young age, he possessed the power of illusion manipulation, allowing him to create incredibly realistic illusions to deceive his adversaries. Nikhil's journey through the diverse neighborhoods of Delhi taught him the delicate balance between truth and deception.",
-    "discovered": false,
-    "position": [28.7041, 77.1025],
-    "polygon": [
-      [28.6329, 77.0881],
-      [28.6329, 77.1915],
-      [28.8838, 77.1915],
-      [28.8838, 77.0881]
-    ]
-  },
+
   {
     "id": 38,
     "name": "Aiko",
@@ -747,6 +782,62 @@
     ]
   },
   {
+    "id": 31,
+    "name": "Aquila",
+    "age": 35,
+    "gender": "Non-Binary",
+    "profileimg": "src/assets/images/characters/aquila.png",
+    "superpower": "Electrokinesis",
+    "location": "Dar es Salaam",
+    "background": "Aquila, a thirty-five-year-old man, roamed the vibrant streets of Dar es Salaam, where the rhythm of life pulsed with the energy of the Tanzanian city. From a young age, he possessed an electrifying presence, drawn to the crackling power of lightning storms that swept across the coastal skyline. Aquila's abilities manifested in a surge of electricity that coursed through his veins, granting him the power of electrokinesis. With a gesture, he could summon bolts of lightning or manipulate the flow of currents with precision. His journey through the bustling metropolis of Dar es Salaam taught him the importance of balance and control in wielding such formidable power.",
+    "discovered": false,
+    "position": [-6.7924, 39.2083],
+    "polygon": [
+      [-6.8407, 39.1828],
+      [-6.7633, 39.1828],
+      [-6.7633, 39.2576],
+      [-6.8407, 39.2576]
+    ]
+  },
+
+  {
+    "id": 32,
+    "name": "Tundra",
+    "age": 28,
+    "gender": "Female",
+    "profileimg": "src/assets/images/characters/tundra.png",
+    "superpower": "Cryokinesis",
+    "location": "Abuja",
+    "background": "Tundra, a twenty-eight-year-old woman, traversed the urban sprawl of Abuja, where the beat of the city echoed through its streets. From a young age, she harbored an affinity for the cold, a connection that blossomed into the power of cryokinesis. With a mere thought, Tundra could freeze objects or lower temperatures in her vicinity to freezing levels. Her journey through the diverse landscapes of Nigeria taught her the delicate balance of ice and heat, and the chilling beauty that resided within.",
+    "discovered": false,
+    "position": [9.0579, 7.4951],
+    "polygon": [
+      [9.0539, 7.3847],
+      [9.0761, 7.3847],
+      [9.0761, 7.6316],
+      [9.0539, 7.6316]
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Barry",
+    "age": 34,
+    "gender": "Male",
+    "profileimg": "src/assets/images/characters/barry.png",
+    "superpower": "Instant Pizza Generation",
+    "location": "Manchester",
+    "background": "Barry, a thirty-four-year-old man, strolled through the lively streets of Manchester, where the eclectic energy of the city matched his unique abilities. Unlike others with traditional superpowers, Barry had the uncanny ability to instantly generate pizzas of any kind, right out of thin air. From classic margheritas to exotic Hawaiian, Barry's strange talent brought joy and confusion to the people of Manchester, earning him the nickname 'The Pizza Wizard'.",
+    "discovered": false,
+    "position": [53.4808, -2.2426],
+    "polygon": [
+      [53.421, -2.315],
+      [53.421, -2.178],
+      [53.517, -2.178],
+      [53.517, -2.315]
+    ]
+  },
+
+  {
     "id": 42,
     "name": "Mei",
     "age": 28,
@@ -765,6 +856,80 @@
     ]
   },
   {
+    "id": 60,
+    "name": "Wyatt",
+    "age": 29,
+    "gender": "Male",
+    "profileimg": "src/assets/images/characters/wyatt.png",
+    "superpower": "Terrakinesis",
+    "location": "Portland",
+    "background": "Wyatt, a twenty-nine-year-old man, roamed the vibrant streets of Portland, where the lush greenery of Oregon's largest city mirrored his extraordinary abilities. From a young age, he possessed the power of terrakinesis, allowing him to manipulate and control earth and rock at will. Wyatt's journey through the eclectic city of Portland taught him the grounding force of nature.",
+    "discovered": false,
+    "position": [45.5051, -122.675],
+    "polygon": [
+      [45.437, -122.817],
+      [45.437, -122.493],
+      [45.64, -122.493],
+      [45.64, -122.817]
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Aether",
+    "age": 90,
+    "gender": "Male",
+    "profileimg": "src/assets/images/characters/aether.png",
+    "superpower": "Chronokinesis",
+    "location": "Addis Ababa",
+    "background": "Aether, a thirty-year-old man, wandered the ancient streets of Addis Ababa, where the echoes of time whispered tales of ages past. From a young age, he felt a profound connection to the passage of time, a connection that blossomed into the power of chronokinesis. With a mere thought, Aether could manipulate the flow of time, speeding it up or slowing it down at will. His journey through the historic sites of Ethiopia taught him the delicate balance of past, present, and future, and the timeless power that lay within.",
+    "discovered": false,
+    "position": [9.0248, 38.7469],
+    "polygon": [
+      [8.9316, 38.6874],
+      [9.1086, 38.6874],
+      [9.1086, 38.8068],
+      [8.9316, 38.8068]
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Blaze",
+    "age": 26,
+    "gender": "Male",
+    "profileimg": "src/assets/images/characters/blaze.png",
+    "superpower": "Pyrokinesis",
+    "location": "Kinshasa",
+    "background": "Blaze, a twenty-six-year-old man, navigated the bustling streets of Kinshasa with a quiet intensity. His journey to discover the extent of his pyrokinetic abilities began amidst the vibrant markets and lively neighborhoods of the Congolese capital. With a mere thought, Blaze could ignite flames or manipulate existing fire to his will. However, he struggled to control the intensity of his powers, often leaving a trail of unintentional destruction in his wake. Determined to master his abilities, Blaze embarked on a solitary quest through the dense jungles of the Congo, seeking the wisdom of ancient civilizations to harness the fiery potential within him.",
+    "discovered": false,
+    "position": [-4.4419, 15.2663],
+    "polygon": [
+      [-4.3268, 15.1849],
+      [-4.3089, 15.2885],
+      [-4.4899, 15.3331],
+      [-4.5104, 15.2259]
+    ]
+  },
+
+  {
+    "id": 30,
+    "name": "Nightbyrde",
+    "age": 29,
+    "gender": "Female",
+    "profileimg": "src/assets/images/characters/nightbyrde.png",
+    "superpower": "Aerokinesis",
+    "location": "Abidjan",
+    "background": "Nightbyrde, a twenty-nine-year-old woman, found herself amidst the vibrant landscapes of Abidjan, where the wind whispered secrets of the coastal city. From a young age, she sensed a profound connection with the air around her, a connection that blossomed into the power of aerokinesis. With a gentle touch, Nightbyrde could manipulate the currents of the atmosphere, summoning breezes or conjuring powerful gusts at will. Her journey through the bustling streets and sandy shores of Côte d'Ivoire taught her the delicate balance of nature and the intrinsic harmony of wind and sea.",
+    "discovered": false,
+    "position": [5.3599, -4.0083],
+    "polygon": [
+      [5.3129, -4.0672],
+      [5.3899, -4.0672],
+      [5.3899, -3.9266],
+      [5.3129, -3.9266]
+    ]
+  },
+
+  {
     "id": 43,
     "name": "Kenji",
     "age": 30,
@@ -782,585 +947,425 @@
       [-6.097, 106.763]
     ]
   },
+  {
+    "id": 71,
+    "name": "Luna",
+    "age": 10,
+    "gender": "Transgender Female",
+    "profileimg": "src/assets/images/characters/luna.png",
+    "superpower": "Lunar Affinity",
+    "location": "Munich",
+    "background": "Luna, a woman of forty, found herself in the vibrant city of Munich. Born into a body that didn't align with her false identity, Luna struggled with her sense of self for years. Her powers manifested during a night of profound introspection, where she felt a deep connection to the moon and its cycles. With time, Luna learned to harness the power of lunar energy, granting her heightened senses and an affinity for the night. Luna's journey led her to embrace her identity fully, finding strength and guidance in the gentle glow of the moon.",
+    "discovered": false,
+    "position": [48.1351, 11.582],
+    "polygon": [
+      [48.0821, 11.4429],
+      [48.2484, 11.4429],
+      [48.2484, 11.6981],
+      [48.0821, 11.6981]
+    ]
+  },
 
-  [
-    {
-      "id": 44,
-      "name": "Lucia",
-      "age": 26,
-      "gender": "Female",
-      "profileimg": "src/assets/images/characters/lucia.png",
-      "superpower": "Pyrokinesis",
-      "location": "Mexico City",
-      "background": "Lucia, a twenty-six-year-old woman, wandered through the vibrant streets of Mexico City, where the warmth of her extraordinary abilities contrasted with the bustling metropolis. From a young age, she possessed the power of pyrokinesis, allowing her to control and manipulate fire at will. Lucia's journey through the heart of Mexico taught her the passion and intensity of her powers.",
-      "discovered": false,
-      "position": [19.4326, -99.1332],
-      "polygon": [
-        [19.3969, -99.1895],
-        [19.3969, -99.0721],
-        [19.5044, -99.0721],
-        [19.5044, -99.1895]
-      ]
-    },
-    {
-      "id": 45,
-      "name": "Diego",
-      "age": 29,
-      "gender": "Male",
-      "profileimg": "src/assets/images/characters/diego.png",
-      "superpower": "Telepathy",
-      "location": "Lima",
-      "background": "Diego, a twenty-nine-year-old man, navigated the bustling streets of Lima, where the ancient mysteries of Peru whispered to his extraordinary abilities. From a young age, he possessed the gift of telepathy, allowing him to communicate with others through the power of his mind. Diego's journey through the historic capital of Peru taught him the depth of human connection and the power of empathy.",
-      "discovered": false,
-      "position": [-12.0464, -77.0428],
-      "polygon": [
-        [-12.072, -77.094],
-        [-12.072, -76.989],
-        [-11.994, -76.989],
-        [-11.994, -77.094]
-      ]
-    },
-    {
-      "id": 46,
-      "name": "Camila",
-      "age": 28,
-      "gender": "Female",
-      "profileimg": "src/assets/images/characters/camila.png",
-      "superpower": "Chronokinesis",
-      "location": "Santiago",
-      "background": "Camila, a twenty-eight-year-old woman, roamed the vibrant streets of Santiago, where the echoes of the past intertwined with the present in the heart of Chile. From a young age, she possessed the extraordinary ability of chronokinesis, allowing her to manipulate time itself. Camila's journey through the historic city of Santiago taught her the delicate balance between preserving history and embracing the future.",
-      "discovered": false,
-      "position": [-33.4489, -70.6693],
-      "polygon": [
-        [-33.4608, -70.6928],
-        [-33.4608, -70.6487],
-        [-33.4227, -70.6487],
-        [-33.4227, -70.6928]
-      ]
-    },
-    {
-      "id": 47,
-      "name": "Carlos",
-      "age": 31,
-      "gender": "Male",
-      "profileimg": "src/assets/images/characters/carlos.png",
-      "superpower": "Elasticity",
-      "location": "São Paulo",
-      "background": "Carlos, a thirty-one-year-old man, wandered through the bustling streets of São Paulo, where the rhythm of Brazil's largest city danced to the beat of his extraordinary abilities. From a young age, he possessed the unique power of elasticity, allowing his body to stretch and contort in ways that defied human limitations. Carlos's journey through the dynamic metropolis of São Paulo taught him the flexibility and resilience of the human spirit.",
-      "discovered": false,
-      "position": [-23.5505, -46.6333],
-      "polygon": [
-        [-23.5901, -46.6916],
-        [-23.5901, -46.5743],
-        [-23.4576, -46.5743],
-        [-23.4576, -46.6916]
-      ]
-    },
-    {
-      "id": 48,
-      "name": "Isabella",
-      "age": 27,
-      "gender": "Female",
-      "profileimg": "src/assets/images/characters/isabella.png",
-      "superpower": "Electrokinesis",
-      "location": "Bogotá",
-      "background": "Isabella, a twenty-seven-year-old woman, navigated the bustling streets of Bogotá, where the energy of Colombia's capital city fueled her extraordinary abilities. From a young age, she possessed the power of electrokinesis, allowing her to control and manipulate electricity at will. Isabella's journey through the vibrant streets of Bogotá taught her the electrifying potential of her powers.",
-      "discovered": false,
-      "position": [4.711, -74.0721],
-      "polygon": [
-        [4.5815, -74.256],
-        [4.5815, -73.978],
-        [4.837, -73.978],
-        [4.837, -74.256]
-      ]
-    },
-    {
-      "id": 49,
-      "name": "Antonio",
-      "age": 30,
-      "gender": "Male",
-      "profileimg": "src/assets/images/characters/antonio.png",
-      "superpower": "Teleportation",
-      "location": "Guadalajara",
-      "background": "Antonio, a thirty-year-old man, roamed the vibrant streets of Guadalajara, where the rich tapestry of Mexican culture provided the perfect backdrop for his extraordinary abilities. From a young age, he possessed the gift of teleportation, allowing him to instantaneously transport himself from one location to another. Antonio's journey through the historic city of Guadalajara taught him the importance of embracing change and seizing opportunities.",
-      "discovered": false,
-      "position": [20.6597, -103.3496],
-      "polygon": [
-        [20.6162, -103.402],
-        [20.6162, -103.296],
-        [20.7315, -103.296],
-        [20.7315, -103.402]
-      ]
-    },
-    {
-      "id": 50,
-      "name": "Valentina",
-      "age": 29,
-      "gender": "Female",
-      "profileimg": "src/assets/images/characters/valentina.png",
-      "superpower": "Biokinesis",
-      "location": "Quito",
-      "background": "Valentina, a twenty-nine-year-old woman, wandered through the historic streets of Quito, where the ancient mysteries of Ecuador whispered to her extraordinary abilities. From a young age, she possessed the rare gift of biokinesis, allowing her to manipulate the biological functions of living organisms. Valentina's journey through the heart of Quito taught her the delicate balance between life and nature.",
-      "discovered": false,
-      "position": [-0.1807, -78.4678],
-      "polygon": [
-        [-0.245, -78.568],
-        [-0.245, -78.426],
-        [-0.092, -78.426],
-        [-0.092, -78.568]
-      ]
-    },
-    {
-      "id": 51,
-      "name": "Mateo",
-      "age": 32,
-      "gender": "Male",
-      "profileimg": "src/assets/images/characters/mateo.png",
-      "superpower": "Magnetism Manipulation",
-      "location": "Brasília",
-      "background": "Mateo, a thirty-two-year-old man, navigated the bustling streets of Brasília, where the modernist architecture of Brazil's capital city provided the perfect backdrop for his extraordinary abilities. From a young age, he possessed the power of magnetism manipulation, allowing him to control and influence magnetic fields at will. Mateo's journey through the dynamic city of Brasília taught him the magnetic pull of destiny and the power of attraction.",
-      "discovered": false,
-      "position": [-15.8267, -47.9218],
-      "polygon": [
-        [-15.889, -47.974],
-        [-15.889, -47.872],
-        [-15.742, -47.872],
-        [-15.742, -47.974]
-      ]
-    },
-    {
-      "id": 52,
-      "name": "Ana",
-      "age": 68,
-      "gender": "Female",
-      "profileimg": "src/assets/images/characters/ana.png",
-      "superpower": "Plant Manipulation",
-      "location": "Caracas",
-      "background": "Ana, a twenty-eight-year-old woman, roamed the vibrant streets of Caracas, where the lush greenery of Venezuela's capital city mirrored her extraordinary abilities. From a young age, she possessed the power of plant manipulation, allowing her to control and manipulate the growth of plant life. Ana's journey through the tropical city of Caracas taught her the interconnectedness of all living things.",
-      "discovered": false,
-      "position": [10.4806, -66.9036],
-      "polygon": [
-        [10.363, -67.043],
-        [10.363, -66.817],
-        [10.561, -66.817],
-        [10.561, -67.043]
-      ]
-    },
-    {
-      "id": 53,
-      "name": "Javier",
-      "age": 50,
-      "gender": "Male",
-      "profileimg": "src/assets/images/characters/javier.png",
-      "superpower": "Shapeshifting",
-      "location": "Monterrey",
-      "background": "Javier, a thirty-year-old man, wandered through the bustling streets of Monterrey, where the industrial heartbeat of Mexico pulsed through his extraordinary abilities. From a young age, he possessed the unique gift of shapeshifting, allowing him to alter his physical form at will. Javier's journey through the vibrant city of Monterrey taught him the fluidity of identity and the power of adaptation.",
-      "discovered": false,
-      "position": [25.6866, -100.3161],
-      "polygon": [
-        [25.577, -100.429],
-        [25.577, -100.201],
-        [25.806, -100.201],
-        [25.806, -100.429]
-      ]
-    },
-    {
-      "id": 54,
-      "name": "Luisa",
-      "age": 77,
-      "gender": "Female",
-      "profileimg": "src/assets/images/characters/luisa.png",
-      "superpower": "Phasing",
-      "location": "San Juan",
-      "background": "Luisa, a twenty-seven-year-old woman, navigated the bustling streets of San Juan, where the rhythm of Puerto Rico's vibrant culture danced to the beat of her extraordinary abilities. From a young age, she possessed the power of phasing, allowing her to pass through solid objects with ease. Luisa's journey through the historic city of San Juan taught her the fluidity of boundaries and the power of freedom.",
-      "discovered": false,
-      "position": [18.4655, -66.1057],
-      "polygon": [
-        [18.393, -66.178],
-        [18.393, -66.025],
-        [18.531, -66.025],
-        [18.531, -66.178]
-      ]
-    },
-    {
-      "id": 55,
-      "name": "Rafael",
-      "age": 89,
-      "gender": "Male",
-      "profileimg": "src/assets/images/characters/rafael.png",
-      "superpower": "Chronoception",
-      "location": "Montevideo",
-      "background": "Rafael, a twenty-nine-year-old man, roamed the vibrant streets of Montevideo, where the echoes of Uruguay's history whispered to his extraordinary abilities. From a young age, he possessed the rare gift of chronoception, allowing him to perceive time at a heightened level. Rafael's journey through the historic city of Montevideo taught him the intricate dance of past, present, and future.",
-      "discovered": false,
-      "position": [-34.9011, -56.1645],
-      "polygon": [
-        [-34.921, -56.218],
-        [-34.921, -56.116],
-        [-34.849, -56.116],
-        [-34.849, -56.218]
-      ]
-    },
-    {
-      "id": 56,
-      "name": "Elena",
-      "age": 8,
-      "gender": "Female",
-      "profileimg": "src/assets/images/characters/elena.png",
-      "superpower": "Atmokinesis",
-      "location": "Querétaro",
-      "background": "Elena, a twenty-eight-year-old woman, wandered through the historic streets of Querétaro, where the weathered stones of Mexico's past bore witness to her extraordinary abilities. From a young age, she possessed the power of atmokinesis, allowing her to control and manipulate the weather at will. Elena's journey through the colonial city of Querétaro taught her the delicate balance between chaos and calm.",
-      "discovered": false,
-      "position": [20.5888, -100.3899],
-      "polygon": [
-        [20.573, -100.43],
-        [20.573, -100.349],
-        [20.621, -100.349],
-        [20.621, -100.43]
-      ]
-    },
-    {
-      "id": 57,
-      "name": "Felipe",
-      "age": 11,
-      "gender": "Male",
-      "profileimg": "src/assets/images/characters/felipe.png",
-      "superpower": "Photokinesis",
-      "location": "Recife",
-      "background": "Felipe, a thirty-one-year-old man, navigated the bustling streets of Recife, where the vibrant culture of Brazil's northeast coast provided the perfect backdrop for his extraordinary abilities. From a young age, he possessed the power of photokinesis, allowing him to control and manipulate light at will. Felipe's journey through the historic city of Recife taught him the illuminating power of hope.",
-      "discovered": false,
-      "position": [-8.0476, -34.877],
-      "polygon": [
-        [-8.078, -34.931],
-        [-8.078, -34.814],
-        [-7.987, -34.814],
-        [-7.987, -34.931]
-      ]
-    },
-    {
-      "id": 58,
-      "name": "Marisol",
-      "age": 18,
-      "gender": "Female",
-      "profileimg": "src/assets/images/characters/marisol.png",
-      "superpower": "Hydrokinesis",
-      "location": "Asunción",
-      "background": "Marisol, a twenty-eight-year-old woman, roamed the vibrant streets of Asunción, where the gentle flow of Paraguay's rivers mirrored her extraordinary abilities. From a young age, she possessed the power of hydrokinesis, allowing her to control and manipulate water at will. Marisol's journey through the historic city of Asunción taught her the fluidity of change and the strength of adaptation.",
-      "discovered": false,
-      "position": [-25.2637, -57.5759],
-      "polygon": [
-        [-25.299, -57.653],
-        [-25.299, -57.531],
-        [-25.225, -57.531],
-        [-25.225, -57.653]
-      ]
-    },
+  {
+    "id": 72,
+    "name": "Elizabeth",
+    "age": 97,
+    "gender": "Female",
+    "profileimg": "src/assets/images/characters/elizabeth.png",
+    "superpower": "Ice Cream Manipulation",
+    "location": "Antarctica",
+    "background": "Elizabeth, a ninety-seven-year-old woman, had a chilling superpower that matched the frosty landscape of Antarctica. With a mere touch, she could manipulate the molecular structure of water, instantly turning it into delicious ice cream of any flavor. While her powers were initially discovered during a scientific expedition, Elizabeth now roamed the icy plains, spreading joy with her frozen treats.",
+    "discovered": false,
+    "position": [-75.2509, -0.071389],
+    "polygon": [
+      [-76.775, -69.5],
+      [-76.775, 180.0],
+      [-64.55, 180.0],
+      [-64.55, -69.5]
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Aurora",
+    "age": 82,
+    "gender": "Female",
+    "profileimg": "src/assets/images/characters/aurora.png",
+    "superpower": "Northern Lights Control",
+    "location": "Alaska",
+    "background": "Aurora, a thirty-two-year-old woman, possessed a mesmerizing superpower that reflected the natural beauty of the Alaskan wilderness. With a wave of her hand, she could manipulate the auroras, painting the night sky with vibrant colors and intricate patterns. Aurora's powers had become legendary among the indigenous communities of Alaska, who regarded her as a guardian of the northern lights.",
+    "discovered": false,
+    "position": [64.2008, -149.4937],
+    "polygon": [
+      [71.538, -179.149],
+      [71.538, -129.994],
+      [51.385, -129.994],
+      [51.385, -179.149]
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Bagpipes",
+    "age": 60,
+    "gender": "Male",
+    "profileimg": "src/assets/images/characters/bagpipes.png",
+    "superpower": "Bagpipe Teleportation",
+    "location": "Glasgow",
+    "background": "Bagpipes, a forty-year-old man from Glasgow, possessed a peculiar superpower that perfectly matched the city's vibrant culture. With the melodious tunes of his bagpipes, he could teleport himself and others to any location he desired. Bagpipes' unique ability had earned him fame and admiration, as well as the nickname 'The Piper of Portals'.",
+    "discovered": false,
+    "position": [55.8642, -4.2518],
+    "polygon": [
+      [55.793, -4.394],
+      [55.793, -4.172],
+      [55.929, -4.172],
+      [55.929, -4.394]
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Lava Lass",
+    "age": 29,
+    "gender": "Female",
+    "profileimg": "src/assets/images/characters/lava-lass.png",
+    "superpower": "Volcanic Hula Hooping",
+    "location": "Hawaii",
+    "background": "Lava Lass, a twenty-nine-year-old woman, possessed an explosive superpower that resonated with the volcanic landscapes of Hawaii. With her mesmerizing hula hooping skills, she could channel the power of nearby volcanoes, creating spectacular displays of molten lava in the form of hoops. Lava Lass' performances had become a must-see attraction for tourists visiting the islands.",
+    "discovered": false,
+    "position": [19.8968, -155.5828],
+    "polygon": [
+      [18.542, -160.248],
+      [18.542, -154.806],
+      [20.108, -154.806],
+      [20.108, -160.248]
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Felipe",
+    "age": 11,
+    "gender": "Male",
+    "profileimg": "src/assets/images/characters/felipe.png",
+    "superpower": "Photokinesis",
+    "location": "Recife",
+    "background": "Felipe, a thirty-one-year-old man, navigated the bustling streets of Recife, where the vibrant culture of Brazil's northeast coast provided the perfect backdrop for his extraordinary abilities. From a young age, he possessed the power of photokinesis, allowing him to control and manipulate light at will. Felipe's journey through the historic city of Recife taught him the illuminating power of hope.",
+    "discovered": false,
+    "position": [-8.0476, -34.877],
+    "polygon": [
+      [-8.078, -34.931],
+      [-8.078, -34.814],
+      [-7.987, -34.814],
+      [-7.987, -34.931]
+    ]
+  },
 
-    {
-      "id": 59,
-      "name": "Dakota",
-      "age": 17,
-      "gender": "Female",
-      "profileimg": "src/assets/images/characters/dakota.png",
-      "superpower": "Electrokinesis",
-      "location": "Austin",
-      "background": "Dakota, a twenty-seven-year-old woman, navigated the vibrant streets of Austin, where the eclectic culture of Texas' capital city provided the perfect backdrop for her extraordinary abilities. From a young age, she possessed the power of electrokinesis, allowing her to generate and manipulate electricity at will. Dakota's journey through the dynamic city of Austin taught her the electrifying potential of change.",
-      "discovered": false,
-      "position": [30.2672, -97.7431],
-      "polygon": [
-        [30.138, -97.828],
-        [30.138, -97.649],
-        [30.357, -97.649],
-        [30.357, -97.828]
-      ]
-    },
-    {
-      "id": 60,
-      "name": "Wyatt",
-      "age": 29,
-      "gender": "Male",
-      "profileimg": "src/assets/images/characters/wyatt.png",
-      "superpower": "Terrakinesis",
-      "location": "Portland",
-      "background": "Wyatt, a twenty-nine-year-old man, roamed the vibrant streets of Portland, where the lush greenery of Oregon's largest city mirrored his extraordinary abilities. From a young age, he possessed the power of terrakinesis, allowing him to manipulate and control earth and rock at will. Wyatt's journey through the eclectic city of Portland taught him the grounding force of nature.",
-      "discovered": false,
-      "position": [45.5051, -122.675],
-      "polygon": [
-        [45.437, -122.817],
-        [45.437, -122.493],
-        [45.64, -122.493],
-        [45.64, -122.817]
-      ]
-    },
-    {
-      "id": 61,
-      "name": "Harper",
-      "age": 31,
-      "gender": "Female",
-      "profileimg": "src/assets/images/characters/harper.png",
-      "superpower": "Pyrokinesis",
-      "location": "Denver",
-      "background": "Harper, a thirty-one-year-old woman, wandered through the bustling streets of Denver, where the majestic peaks of the Rocky Mountains whispered to her extraordinary abilities. From a young age, she possessed the power of pyrokinesis, allowing her to control and manipulate fire at will. Harper's journey through the vibrant city of Denver taught her the transformative power of heat.",
-      "discovered": false,
-      "position": [39.7392, -104.9903],
-      "polygon": [
-        [39.645, -105.109],
-        [39.645, -104.901],
-        [39.914, -104.901],
-        [39.914, -105.109]
-      ]
-    },
-    {
-      "id": 62,
-      "name": "Parker",
-      "age": 88,
-      "gender": "Male",
-      "profileimg": "src/assets/images/characters/parker.png",
-      "superpower": "Telekinesis",
-      "location": "Charlotte",
-      "background": "Parker, a twenty-eight-year-old man, navigated the bustling streets of Charlotte, where the modern skyline of North Carolina's largest city provided the perfect backdrop for his extraordinary abilities. From a young age, he possessed the power of telekinesis, allowing him to move objects with his mind. Parker's journey through the dynamic city of Charlotte taught him the invisible force of willpower.",
-      "discovered": false,
-      "position": [35.2271, -80.8431],
-      "polygon": [
-        [35.159, -80.979],
-        [35.159, -80.606],
-        [35.351, -80.606],
-        [35.351, -80.979]
-      ]
-    },
-    {
-      "id": 63,
-      "name": "Sawyer",
-      "age": 10,
-      "gender": "Male",
-      "profileimg": "src/assets/images/characters/sawyer.png",
-      "superpower": "Gravity Manipulation",
-      "location": "Louisiana",
-      "background": "Sawyer, a 10-year-old boy, roamed the vibrant streets of Nashville, where the rhythm of Louisiana's music scene echoed his extraordinary abilities. From a young age, he possessed the power of gravity manipulation, allowing him to control and alter gravitational forces at will. Sawyer's journey through the eclectic city of Nashville taught him the weight of responsibility.",
-      "discovered": false,
-      "position": [36.1627, -86.7816],
-      "polygon": [
-        [36.046, -86.963],
-        [36.046, -86.643],
-        [36.311, -86.643],
-        [36.311, -86.963]
-      ]
-    },
-    {
-      "id": 64,
-      "name": "Hayden",
-      "age": 27,
-      "gender": "Transgender Male",
-      "profileimg": "src/assets/images/characters/hayden.png",
-      "superpower": "Illusion Manipulation",
-      "location": "Seattle",
-      "background": "Hayden, a twenty-seven-year-old man, wandered through the bustling streets of Seattle, where the misty atmosphere of the Pacific Northwest mirrored her extraordinary abilities. From a young age, he possessed the power of illusion manipulation, allowing him to create and control illusions at will. Hayden's journey through the dynamic city of Seattle taught him the blurred lines between reality and perception.",
-      "discovered": false,
-      "position": [47.6062, -122.3321],
-      "polygon": [
-        [47.494, -122.441],
-        [47.494, -122.231],
-        [47.734, -122.231],
-        [47.734, -122.441]
-      ]
-    },
-    {
-      "id": 65,
-      "name": "Emerson",
-      "age": 29,
-      "gender": "Male",
-      "profileimg": "src/assets/images/characters/emerson.png",
-      "superpower": "Chronoportation",
-      "location": "Atlanta",
-      "background": "Emerson, a twenty-nine-year-old man, navigated the bustling streets of Atlanta, where the vibrant culture of Georgia's capital city provided the perfect backdrop for his extraordinary abilities. From a young age, he possessed the power of chronoportation, allowing him to teleport through time. Emerson's journey through the dynamic city of Atlanta taught him the fluidity of history.",
-      "discovered": false,
-      "position": [33.749, -84.388],
-      "polygon": [
-        [33.647, -84.539],
-        [33.647, -84.289],
-        [33.876, -84.289],
-        [33.876, -84.539]
-      ]
-    },
-    {
-      "id": 66,
-      "name": "Riley",
-      "age": 78,
-      "gender": "Female",
-      "profileimg": "src/assets/images/characters/riley.png",
-      "superpower": "Telepathy",
-      "location": "Phoenix",
-      "background": "Riley, a twenty-eight-year-old woman, roamed the vibrant streets of Phoenix, where the desert landscape of Arizona mirrored her extraordinary abilities. From a young age, she possessed the power of telepathy, allowing her to read and manipulate minds. Riley's journey through the dynamic city of Phoenix taught her the depth of human connection.",
-      "discovered": false,
-      "position": [33.4484, -112.074],
-      "polygon": [
-        [33.321, -112.186],
-        [33.321, -111.989],
-        [33.625, -111.989],
-        [33.625, -112.186]
-      ]
-    },
-    {
-      "id": 67,
-      "name": "Jordan",
-      "age": 61,
-      "gender": "Male",
-      "profileimg": "src/assets/images/characters/jordan.png",
-      "superpower": "Sonic Scream",
-      "location": "Dallas",
-      "background": "Jordan, a thirty-one-year-old man, wandered through the bustling streets of Dallas, where the modern skyline of Texas' third-largest city echoed his extraordinary abilities. From a young age, he possessed the power of sonic scream, allowing him to emit powerful sonic blasts from his vocal cords. Jordan's journey through the vibrant city of Dallas taught him the resonance of sound.",
-      "discovered": false,
-      "position": [32.7767, -96.797],
-      "polygon": [
-        [32.681, -96.944],
-        [32.681, -96.628],
-        [32.948, -96.628],
-        [32.948, -96.944]
-      ]
-    },
-    {
-      "id": 68,
-      "name": "Logan",
-      "age": 69,
-      "gender": "Male",
-      "profileimg": "src/assets/images/characters/logan.png",
-      "superpower": "Elasticity",
-      "location": "Las Vegas",
-      "background": "Logan, a twenty-nine-year-old man, navigated the bustling streets of Las Vegas, where the neon lights of Nevada's entertainment capital provided the perfect backdrop for his extraordinary abilities. From a young age, he possessed the power of elasticity, allowing his body to stretch and contort in extraordinary ways. Logan's journey through the dynamic city of Las Vegas taught him the flexibility of life.",
-      "discovered": false,
-      "position": [36.1699, -115.1398],
-      "polygon": [
-        [36.074, -115.301],
-        [36.074, -115.083],
-        [36.259, -115.083],
-        [36.259, -115.301]
-      ]
-    },
-    {
-      "id": 69,
-      "name": "Nova",
-      "age": 59,
-      "gender": "Transgender Female",
-      "profileimg": "src/assets/images/characters/nova.png",
-      "superpower": "Energy Projection",
-      "location": "Bangkok",
-      "background": "Nova, a woman of twenty-nine, was born and raised amidst the bustling streets of Bangkok. From a young age, she grappled with the disconnect between her gender identity and the body she was born into. Nova's journey to self-acceptance was marked by internal struggles and societal pressures. It was during a moment of intense emotional release, amidst the vibrant energy of Bangkok's nightlife, that bursts of energy first emanated from her being. With time, self-reflection, and the support of her community, Nova learned to harness and control this energy, using it to protect herself and others. Her journey through Bangkok's diverse and accepting culture led her to fully embrace her identity and recognize her powers as an integral part of herself.",
-      "discovered": false,
-      "position": [13.7563, 100.5018],
-      "polygon": [
-        [13.585, 100.347],
-        [13.93, 100.347],
-        [13.93, 100.964],
-        [13.585, 100.964]
-      ]
-    },
-    {
-      "id": 70,
-      "name": "Serenade",
-      "age": 46,
-      "gender": "Male",
-      "profileimg": "src/assets/images/characters/serenade.png",
-      "superpower": "Sound Manipulation",
-      "location": "Birmingham",
-      "background": "Serenade, a man of thirty-six, was born in Birmingham. From a young age, he was drawn to music and sound, finding solace in the melodies that filled his world. Serenade discovered his powers during a moment of emotional resonance, where his voice seemed to have a profound effect on his surroundings. With practice, he learned to manipulate sound waves, creating beautiful symphonies or deafening cacophonies at will. Serenade's journey taught him the power of expression and the ability to find harmony within himself.",
-      "discovered": false,
-      "position": [52.4862, -1.8904],
-      "polygon": [
-        [52.401, -1.963],
-        [52.562, -1.963],
-        [52.562, -1.72],
-        [52.401, -1.72]
-      ]
-    },
-    {
-      "id": 71,
-      "name": "Luna",
-      "age": 10,
-      "gender": "Transgender Female",
-      "profileimg": "src/assets/images/characters/luna.png",
-      "superpower": "Lunar Affinity",
-      "location": "Munich",
-      "background": "Luna, a woman of forty, found herself in the vibrant city of Munich. Born into a body that didn't align with her false identity, Luna struggled with her sense of self for years. Her powers manifested during a night of profound introspection, where she felt a deep connection to the moon and its cycles. With time, Luna learned to harness the power of lunar energy, granting her heightened senses and an affinity for the night. Luna's journey led her to embrace her identity fully, finding strength and guidance in the gentle glow of the moon.",
-      "discovered": false,
-      "position": [48.1351, 11.582],
-      "polygon": [
-        [48.0821, 11.4429],
-        [48.2484, 11.4429],
-        [48.2484, 11.6981],
-        [48.0821, 11.6981]
-      ]
-    },
+  {
+    "id": 61,
+    "name": "Harper",
+    "age": 31,
+    "gender": "Female",
+    "profileimg": "src/assets/images/characters/harper.png",
+    "superpower": "Pyrokinesis",
+    "location": "Denver",
+    "background": "Harper, a thirty-one-year-old woman, wandered through the bustling streets of Denver, where the majestic peaks of the Rocky Mountains whispered to her extraordinary abilities. From a young age, she possessed the power of pyrokinesis, allowing her to control and manipulate fire at will. Harper's journey through the vibrant city of Denver taught her the transformative power of heat.",
+    "discovered": false,
+    "position": [39.7392, -104.9903],
+    "polygon": [
+      [39.645, -105.109],
+      [39.645, -104.901],
+      [39.914, -104.901],
+      [39.914, -105.109]
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Parker",
+    "age": 88,
+    "gender": "Male",
+    "profileimg": "src/assets/images/characters/parker.png",
+    "superpower": "Telekinesis",
+    "location": "Charlotte",
+    "background": "Parker, a twenty-eight-year-old man, navigated the bustling streets of Charlotte, where the modern skyline of North Carolina's largest city provided the perfect backdrop for his extraordinary abilities. From a young age, he possessed the power of telekinesis, allowing him to move objects with his mind. Parker's journey through the dynamic city of Charlotte taught him the invisible force of willpower.",
+    "discovered": false,
+    "position": [35.2271, -80.8431],
+    "polygon": [
+      [35.159, -80.979],
+      [35.159, -80.606],
+      [35.351, -80.606],
+      [35.351, -80.979]
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Sawyer",
+    "age": 10,
+    "gender": "Male",
+    "profileimg": "src/assets/images/characters/sawyer.png",
+    "superpower": "Gravity Manipulation",
+    "location": "Louisiana",
+    "background": "Sawyer, a 10-year-old boy, roamed the vibrant streets of Nashville, where the rhythm of Louisiana's music scene echoed his extraordinary abilities. From a young age, he possessed the power of gravity manipulation, allowing him to control and alter gravitational forces at will. Sawyer's journey through the eclectic city of Nashville taught him the weight of responsibility.",
+    "discovered": false,
+    "position": [36.1627, -86.7816],
+    "polygon": [
+      [36.046, -86.963],
+      [36.046, -86.643],
+      [36.311, -86.643],
+      [36.311, -86.963]
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Diego",
+    "age": 29,
+    "gender": "Male",
+    "profileimg": "src/assets/images/characters/diego.png",
+    "superpower": "Telepathy",
+    "location": "Lima",
+    "background": "Diego, a twenty-nine-year-old man, navigated the bustling streets of Lima, where the ancient mysteries of Peru whispered to his extraordinary abilities. From a young age, he possessed the gift of telepathy, allowing him to communicate with others through the power of his mind. Diego's journey through the historic capital of Peru taught him the depth of human connection and the power of empathy.",
+    "discovered": false,
+    "position": [-12.0464, -77.0428],
+    "polygon": [
+      [-12.072, -77.094],
+      [-12.072, -76.989],
+      [-11.994, -76.989],
+      [-11.994, -77.094]
+    ]
+  },
 
-    {
-      "id": 72,
-      "name": "Elizabeth",
-      "age": 97,
-      "gender": "Female",
-      "profileimg": "src/assets/images/characters/elizabeth.png",
-      "superpower": "Ice Cream Manipulation",
-      "location": "Antarctica",
-      "background": "Elizabeth, a ninety-seven-year-old woman, had a chilling superpower that matched the frosty landscape of Antarctica. With a mere touch, she could manipulate the molecular structure of water, instantly turning it into delicious ice cream of any flavor. While her powers were initially discovered during a scientific expedition, Elizabeth now roamed the icy plains, spreading joy with her frozen treats.",
-      "discovered": false,
-      "position": [-75.2509, -0.071389],
-      "polygon": [
-        [-76.775, -69.5],
-        [-76.775, 180.0],
-        [-64.55, 180.0],
-        [-64.55, -69.5]
-      ]
-    },
-    {
-      "id": 73,
-      "name": "Aurora",
-      "age": 82,
-      "gender": "Female",
-      "profileimg": "src/assets/images/characters/aurora.png",
-      "superpower": "Northern Lights Control",
-      "location": "Alaska",
-      "background": "Aurora, a thirty-two-year-old woman, possessed a mesmerizing superpower that reflected the natural beauty of the Alaskan wilderness. With a wave of her hand, she could manipulate the auroras, painting the night sky with vibrant colors and intricate patterns. Aurora's powers had become legendary among the indigenous communities of Alaska, who regarded her as a guardian of the northern lights.",
-      "discovered": false,
-      "position": [64.2008, -149.4937],
-      "polygon": [
-        [71.538, -179.149],
-        [71.538, -129.994],
-        [51.385, -129.994],
-        [51.385, -179.149]
-      ]
-    },
-    {
-      "id": 74,
-      "name": "Bagpipes",
-      "age": 60,
-      "gender": "Male",
-      "profileimg": "src/assets/images/characters/bagpipes.png",
-      "superpower": "Bagpipe Teleportation",
-      "location": "Glasgow",
-      "background": "Bagpipes, a forty-year-old man from Glasgow, possessed a peculiar superpower that perfectly matched the city's vibrant culture. With the melodious tunes of his bagpipes, he could teleport himself and others to any location he desired. Bagpipes' unique ability had earned him fame and admiration, as well as the nickname 'The Piper of Portals'.",
-      "discovered": false,
-      "position": [55.8642, -4.2518],
-      "polygon": [
-        [55.793, -4.394],
-        [55.793, -4.172],
-        [55.929, -4.172],
-        [55.929, -4.394]
-      ]
-    },
-    {
-      "id": 75,
-      "name": "Lava Lass",
-      "age": 29,
-      "gender": "Female",
-      "profileimg": "src/assets/images/characters/lava-lass.png",
-      "superpower": "Volcanic Hula Hooping",
-      "location": "Hawaii",
-      "background": "Lava Lass, a twenty-nine-year-old woman, possessed an explosive superpower that resonated with the volcanic landscapes of Hawaii. With her mesmerizing hula hooping skills, she could channel the power of nearby volcanoes, creating spectacular displays of molten lava in the form of hoops. Lava Lass' performances had become a must-see attraction for tourists visiting the islands.",
-      "discovered": false,
-      "position": [19.8968, -155.5828],
-      "polygon": [
-        [18.542, -160.248],
-        [18.542, -154.806],
-        [20.108, -154.806],
-        [20.108, -160.248]
-      ]
-    }
-  ]
+  {
+    "id": 55,
+    "name": "Rafael",
+    "age": 89,
+    "gender": "Male",
+    "profileimg": "src/assets/images/characters/rafael.png",
+    "superpower": "Chronoception",
+    "location": "Montevideo",
+    "background": "Rafael, a twenty-nine-year-old man, roamed the vibrant streets of Montevideo, where the echoes of Uruguay's history whispered to his extraordinary abilities. From a young age, he possessed the rare gift of chronoception, allowing him to perceive time at a heightened level. Rafael's journey through the historic city of Montevideo taught him the intricate dance of past, present, and future.",
+    "discovered": false,
+    "position": [-34.9011, -56.1645],
+    "polygon": [
+      [-34.921, -56.218],
+      [-34.921, -56.116],
+      [-34.849, -56.116],
+      [-34.849, -56.218]
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Elena",
+    "age": 8,
+    "gender": "Female",
+    "profileimg": "src/assets/images/characters/elena.png",
+    "superpower": "Atmokinesis",
+    "location": "Querétaro",
+    "background": "Elena, a twenty-eight-year-old woman, wandered through the historic streets of Querétaro, where the weathered stones of Mexico's past bore witness to her extraordinary abilities. From a young age, she possessed the power of atmokinesis, allowing her to control and manipulate the weather at will. Elena's journey through the colonial city of Querétaro taught her the delicate balance between chaos and calm.",
+    "discovered": false,
+    "position": [20.5888, -100.3899],
+    "polygon": [
+      [20.573, -100.43],
+      [20.573, -100.349],
+      [20.621, -100.349],
+      [20.621, -100.43]
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Nikhil",
+    "age": 30,
+    "gender": "Male",
+    "profileimg": "src/assets/images/characters/nikhil.png",
+    "superpower": "Illusion Manipulation",
+    "location": "Delhi",
+    "background": "Nikhil, a thirty-year-old man, wandered through the vibrant streets of Delhi, where the hustle and bustle of India's capital provided the perfect cover for his extraordinary abilities. From a young age, he possessed the power of illusion manipulation, allowing him to create incredibly realistic illusions to deceive his adversaries. Nikhil's journey through the diverse neighborhoods of Delhi taught him the delicate balance between truth and deception.",
+    "discovered": false,
+    "position": [28.7041, 77.1025],
+    "polygon": [
+      [28.6329, 77.0881],
+      [28.6329, 77.1915],
+      [28.8838, 77.1915],
+      [28.8838, 77.0881]
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Marisol",
+    "age": 18,
+    "gender": "Female",
+    "profileimg": "src/assets/images/characters/marisol.png",
+    "superpower": "Hydrokinesis",
+    "location": "Asunción",
+    "background": "Marisol, a twenty-eight-year-old woman, roamed the vibrant streets of Asunción, where the gentle flow of Paraguay's rivers mirrored her extraordinary abilities. From a young age, she possessed the power of hydrokinesis, allowing her to control and manipulate water at will. Marisol's journey through the historic city of Asunción taught her the fluidity of change and the strength of adaptation.",
+    "discovered": false,
+    "position": [-25.2637, -57.5759],
+    "polygon": [
+      [-25.299, -57.653],
+      [-25.299, -57.531],
+      [-25.225, -57.531],
+      [-25.225, -57.653]
+    ]
+  },
+
+  {
+    "id": 59,
+    "name": "Dakota",
+    "age": 17,
+    "gender": "Female",
+    "profileimg": "src/assets/images/characters/dakota.png",
+    "superpower": "Electrokinesis",
+    "location": "Austin",
+    "background": "Dakota, a twenty-seven-year-old woman, navigated the vibrant streets of Austin, where the eclectic culture of Texas' capital city provided the perfect backdrop for her extraordinary abilities. From a young age, she possessed the power of electrokinesis, allowing her to generate and manipulate electricity at will. Dakota's journey through the dynamic city of Austin taught her the electrifying potential of change.",
+    "discovered": false,
+    "position": [30.2672, -97.7431],
+    "polygon": [
+      [30.138, -97.828],
+      [30.138, -97.649],
+      [30.357, -97.649],
+      [30.357, -97.828]
+    ]
+  },
+
+  {
+    "id": 44,
+    "name": "Lucia",
+    "age": 26,
+    "gender": "Female",
+    "profileimg": "src/assets/images/characters/lucia.png",
+    "superpower": "Pyrokinesis",
+    "location": "Mexico City",
+    "background": "Lucia, a twenty-six-year-old woman, wandered through the vibrant streets of Mexico City, where the warmth of her extraordinary abilities contrasted with the bustling metropolis. From a young age, she possessed the power of pyrokinesis, allowing her to control and manipulate fire at will. Lucia's journey through the heart of Mexico taught her the passion and intensity of her powers.",
+    "discovered": false,
+    "position": [19.4326, -99.1332],
+    "polygon": [
+      [19.3969, -99.1895],
+      [19.3969, -99.0721],
+      [19.5044, -99.0721],
+      [19.5044, -99.1895]
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Jordan",
+    "age": 61,
+    "gender": "Male",
+    "profileimg": "src/assets/images/characters/jordan.png",
+    "superpower": "Sonic Scream",
+    "location": "Dallas",
+    "background": "Jordan, a thirty-one-year-old man, wandered through the bustling streets of Dallas, where the modern skyline of Texas' third-largest city echoed his extraordinary abilities. From a young age, he possessed the power of sonic scream, allowing him to emit powerful sonic blasts from his vocal cords. Jordan's journey through the vibrant city of Dallas taught him the resonance of sound.",
+    "discovered": false,
+    "position": [32.7767, -96.797],
+    "polygon": [
+      [32.681, -96.944],
+      [32.681, -96.628],
+      [32.948, -96.628],
+      [32.948, -96.944]
+    ]
+  },
+
+  {
+    "id": 35,
+    "name": "Raj",
+    "age": 32,
+    "gender": "Male",
+    "profileimg": "src/assets/images/characters/raj.png",
+    "superpower": "Teleportation",
+    "location": "Mumbai",
+    "background": "Raj, a thirty-two-year-old man, navigated the bustling streets of Mumbai, where the chaotic energy of India's financial capital fueled his extraordinary abilities. From a young age, he possessed the gift of teleportation, allowing him to instantaneously transport himself from one location to another. Raj's journey through the vibrant tapestry of Mumbai taught him the value of connections and the power of being present.",
+    "discovered": false,
+    "position": [19.076, 72.8777],
+    "polygon": [
+      [19.059, 72.857],
+      [19.093, 72.857],
+      [19.093, 72.897],
+      [19.059, 72.897]
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Li Wei",
+    "age": 29,
+    "gender": "Female",
+    "profileimg": "src/assets/images/characters/li_wei.png",
+    "superpower": "Geomancy",
+    "location": "Beijing",
+    "background": "Li Wei, a twenty-nine-year-old woman, roamed the historic streets of Beijing, where the ancient art of geomancy shaped the very essence of the city. From a young age, she possessed the rare ability of geomancy, allowing her to manipulate the earth and its energies. Li Wei's journey through the cultural heart of China taught her the importance of balance and harmony in the natural world.",
+    "discovered": false,
+    "position": [39.9042, 116.4074],
+    "polygon": [
+      [39.882, 116.38],
+      [39.926, 116.38],
+      [39.926, 116.432],
+      [39.882, 116.432]
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Javier",
+    "age": 50,
+    "gender": "Male",
+    "profileimg": "src/assets/images/characters/javier.png",
+    "superpower": "Shapeshifting",
+    "location": "Monterrey",
+    "background": "Javier, a thirty-year-old man, wandered through the bustling streets of Monterrey, where the industrial heartbeat of Mexico pulsed through his extraordinary abilities. From a young age, he possessed the unique gift of shapeshifting, allowing him to alter his physical form at will. Javier's journey through the vibrant city of Monterrey taught him the fluidity of identity and the power of adaptation.",
+    "discovered": false,
+    "position": [25.6866, -100.3161],
+    "polygon": [
+      [25.577, -100.429],
+      [25.577, -100.201],
+      [25.806, -100.201],
+      [25.806, -100.429]
+    ]
+  },
+
+  {
+    "id": 66,
+    "name": "Riley",
+    "age": 78,
+    "gender": "Female",
+    "profileimg": "src/assets/images/characters/riley.png",
+    "superpower": "Telepathy",
+    "location": "Phoenix",
+    "background": "Riley, a twenty-eight-year-old woman, roamed the vibrant streets of Phoenix, where the desert landscape of Arizona mirrored her extraordinary abilities. From a young age, she possessed the power of telepathy, allowing her to read and manipulate minds. Riley's journey through the dynamic city of Phoenix taught her the depth of human connection.",
+    "discovered": false,
+    "position": [33.4484, -112.074],
+    "polygon": [
+      [33.321, -112.186],
+      [33.321, -111.989],
+      [33.625, -111.989],
+      [33.625, -112.186]
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Mateo",
+    "age": 32,
+    "gender": "Male",
+    "profileimg": "src/assets/images/characters/mateo.png",
+    "superpower": "Magnetism Manipulation",
+    "location": "Brasília",
+    "background": "Mateo, a thirty-two-year-old man, navigated the bustling streets of Brasília, where the modernist architecture of Brazil's capital city provided the perfect backdrop for his extraordinary abilities. From a young age, he possessed the power of magnetism manipulation, allowing him to control and influence magnetic fields at will. Mateo's journey through the dynamic city of Brasília taught him the magnetic pull of destiny and the power of attraction.",
+    "discovered": false,
+    "position": [-15.8267, -47.9218],
+    "polygon": [
+      [-15.889, -47.974],
+      [-15.889, -47.872],
+      [-15.742, -47.872],
+      [-15.742, -47.974]
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Ana",
+    "age": 68,
+    "gender": "Female",
+    "profileimg": "src/assets/images/characters/ana.png",
+    "superpower": "Plant Manipulation",
+    "location": "Caracas",
+    "background": "Ana, a twenty-eight-year-old woman, roamed the vibrant streets of Caracas, where the lush greenery of Venezuela's capital city mirrored her extraordinary abilities. From a young age, she possessed the power of plant manipulation, allowing her to control and manipulate the growth of plant life. Ana's journey through the tropical city of Caracas taught her the interconnectedness of all living things.",
+    "discovered": false,
+    "position": [10.4806, -66.9036],
+    "polygon": [
+      [10.363, -67.043],
+      [10.363, -66.817],
+      [10.561, -66.817],
+      [10.561, -67.043]
+    ]
+  }
 ]
