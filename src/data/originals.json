@@ -3,7 +3,7 @@
     "name": "Vorax Prime",
     "alias": "George Thompson",
     "backstory": "Vorax Prime, known as George Thompson, was the first of the five agents dispatched to Earth from the distant planet of Tarsis. George possessed the ability to manipulate the fabric of space-time, allowing him to traverse vast distances in an instant. Initially tasked with observing Earth's technological advancements, George became fascinated by the intricacies of human relationships and emotions. However, as he witnessed the destructive conflicts plaguing the planet, George grew disillusioned with humanity's penchant for violence. Despite his growing cynicism, George remained determined to protect Earth from external threats, ultimately revealing himself to the world in a bid to prevent a catastrophic alien invasion.",
-    "profileImg": "src/assets/images/originals/vorax.png",
+    "profileImg": "/images/originals/vorax.png",
     "planetOfOrigin": "Tarsis",
     "age": "225"
   },
@@ -11,7 +11,7 @@
     "name": "Zephyrion Alpha",
     "alias": "Ariana Patel",
     "backstory": "Zephyrion Alpha, also known as Ariana Patel, arrived on Earth as one of the original agents sent from the distant planet of Aerion. Possessing the ability to manipulate air currents and sound waves, Ariana was initially intrigued by Earth's diverse cultures and languages. As he integrated into human society, Ariana became enamored with the power of communication and the exchange of ideas. However, witnessing the spread of misinformation and propaganda, Ariana grew concerned about the fragility of truth in human discourse. Despite his misgivings, Ariana remained committed to fostering understanding and empathy among Earth's inhabitants, using his powers to amplify voices of reason and compassion.",
-    "profileImg": "src/assets/images/originals/zephyrion.png",
+    "profileImg": "/images/originals/zephyrion.png",
     "planetOfOrigin": "Aerion",
     "age": "180"
   },
@@ -19,7 +19,7 @@
     "name": "Lythrae Delta",
     "alias": "Natasha Smith",
     "backstory": "Lythrae Delta, known as Natasha Smith, was among the original agents dispatched to Earth from the distant planet of Thalos. Possessing the ability to manipulate energy fields and harness cosmic radiation, Natasha was initially drawn to Earth's scientific achievements and potential for inNatashation. However, as she observed the exploitation of natural resources and the degradation of the environment, Natasha grew disheartened by humanity's disregard for the delicate balance of ecosystems. Despite her frustrations, Natasha remained determined to guide Earth towards a sustainable future, using her powers to promote renewable energy and environmental conservation.",
-    "profileImg": "src/assets/images/originals/lythrae.png",
+    "profileImg": "/images/originals/lythrae.png",
     "planetOfOrigin": "Thalos",
     "age": "175"
   },
@@ -27,7 +27,7 @@
     "name": "Pyraxis Omega",
     "alias": "Marcus Kellerman",
     "backstory": "Pyraxis Omega, also known as Marcus Kellerman, arrived on Earth as one of the original agents sent from the distant planet of Pyra. Possessing the ability to generate and manipulate flames, Marcus was initially fascinated by Earth's diverse climates and geological formations. As he witnessed the resilience of life in the face of adversity, Marcus developed a deep respect for Earth's natural beauty and biodiversity. However, as he observed the devastation wrought by wildfires and industrial pollution, Marcus grew determined to protect the planet from environmental degradation. Despite his fiery temperament, Marcus remained committed to nurturing life and preserving Earth's ecosystems for future generations.",
-    "profileImg": "src/assets/images/originals/pyraxis.png",
+    "profileImg": "/images/originals/pyraxis.png",
     "planetOfOrigin": "Pyra",
     "age": "200"
   },
@@ -35,7 +35,7 @@
     "name": "Chronos Delta",
     "alias": "Nikolai Petrov",
     "backstory": "Chronos Delta, known as Nikolai Petrov, was the final member of the original agents dispatched to Earth from the distant planet of Tempus. Possessing the ability to manipulate time and perception, Nikolai was initially intrigued by Earth's rich history and cultural heritage. As he observed the passage of time and the cyclical nature of human civilizations, Nikolai grew concerned about the potential for historical amnesia and the repetition of past mistakes. Despite his aloof demeanor, Nikolai remained committed to preserving Earth's collective memory and guiding humanity towards a future of enlightenment and progress.",
-    "profileImg": "src/assets/images/originals/chronos.png",
+    "profileImg": "/images/originals/chronos.png",
     "planetOfOrigin": "Tempus",
     "age": "175"
   }
