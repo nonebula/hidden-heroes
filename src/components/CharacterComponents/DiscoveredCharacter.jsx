@@ -1,5 +1,5 @@
-import React from "react";
 import CharacterCard from "./CharacterCard";
+import PropTypes from "prop-types";
 
 const DiscoveredCharacters = ({ characters }) => {
   return (
@@ -9,6 +9,10 @@ const DiscoveredCharacters = ({ characters }) => {
       ))}
     </div>
   );
+};
+
+DiscoveredCharacters.propTypes = {
+  characters: PropTypes.array.isRequired,
 };
 
 export default DiscoveredCharacters;

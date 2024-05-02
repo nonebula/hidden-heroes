@@ -1,9 +1,10 @@
-import React from "react";
 import PropTypes from "prop-types";
 
 const BackstoryLogic = ({
   original: { profileImg, name, alias, backstory, planetOfOrigin, age },
 }) => {
+  const ageNumber = parseInt(age);
+
   return (
     <div className="container flex flex-col items-center mb-5 mt-5 pl-24 pr-24">
       <img
@@ -15,7 +16,7 @@ const BackstoryLogic = ({
         Name: {name} (A.K.A {alias})
       </h1>
       <p className="text-lime-500 mt-5 mb-5">
-        Planet: {planetOfOrigin} | Age: {age} Earth Years
+        Planet: {planetOfOrigin} | Age: {ageNumber} Earth Years
       </p>
       <p className="text-lime-500 mt-5 mb-10">{backstory}</p>
     </div>
@@ -29,7 +30,7 @@ BackstoryLogic.propTypes = {
     alias: PropTypes.string.isRequired,
     backstory: PropTypes.string.isRequired,
     planetOfOrigin: PropTypes.string.isRequired,
-    age: PropTypes.number.isRequired,
+    age: PropTypes.oneOfType([PropTypes.string, PropTypes.number]).isRequired,
   }).isRequired,
 };
 

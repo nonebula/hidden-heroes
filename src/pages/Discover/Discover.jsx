@@ -7,12 +7,9 @@ const Discover = () => {
   const [selectedCharacter, setSelectedCharacter] = useState(null);
   const [characters, setCharacters] = useState(initialCharacters);
 
-  const handleMarkerClick = (character) => {
-    setSelectedCharacter(character);
-  };
-
   const handleCloseCard = () => {
     setSelectedCharacter(null);
+    console.log(selectedCharacter);
   };
 
   const handleDiscover = (characterId) => {
@@ -20,6 +17,10 @@ const Discover = () => {
       char.id === characterId ? { ...char, discovered: true } : char
     );
     setCharacters(updatedCharacters);
+  };
+
+  const handlePolygonClick = (character) => {
+    setSelectedCharacter(character);
   };
 
   const discoveredCharacters = characters.filter(
@@ -41,6 +42,7 @@ const Discover = () => {
         characters={characters}
         setCharacters={setCharacters}
         handleDiscover={handleDiscover}
+        handlePolygonClick={handlePolygonClick}
         onPopupClose={handleCloseCard}
       />
       {discoveredCharacters.length > 0 && (

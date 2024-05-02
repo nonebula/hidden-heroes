@@ -1,4 +1,3 @@
-import React from "react";
 import CharacterCard from "./CharacterCard";
 import charactersData from "../../data/characters.json";
 

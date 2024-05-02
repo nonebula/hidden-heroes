@@ -2,12 +2,7 @@ import { MapContainer, Polygon, Popup, TileLayer } from "react-leaflet";
 import PropTypes from "prop-types";
 import CharacterCard from "../CharacterComponents/CharacterCard";
 
-function Map({
-  characters,
-  handleDiscover,
-  handlePolygonClick,
-  selectedCharacter,
-}) {
+function Map({ characters, handleDiscover, handlePolygonClick }) {
   return (
     <MapContainer
       className="mb-16"
@@ -48,10 +43,8 @@ function Map({
 
 Map.propTypes = {
   characters: PropTypes.array.isRequired,
-  setCharacters: PropTypes.func.isRequired,
   handleDiscover: PropTypes.func.isRequired,
   handlePolygonClick: PropTypes.func.isRequired,
-  selectedCharacter: PropTypes.object,
 };
 
 export default Map;
