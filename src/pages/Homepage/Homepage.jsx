@@ -7,7 +7,7 @@ const Homepage = () => {
     <div className="bg-black border border-lime-500 px-16 mx-16 flex flex-col items-center font-roboto-mono">
       <div className="flex flex-col justify-center items-center">
         <img
-          src="src/assets/images/homepage.png"
+          src="public/assets/images/homepage.png"
           alt="Hidden Heroes Intro Image"
           className="w-1/2 h-1/2 rounded-lg pt-5"
         />
