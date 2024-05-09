@@ -6,19 +6,21 @@ const BackstoryLogic = ({
   const ageNumber = parseInt(age);
 
   return (
-    <div className="container flex flex-col items-center mb-5 mt-5 pl-24 pr-24">
+    <div className="container mx-auto flex flex-col items-center mb-5 mt-5 px-4 sm:px-8 md:px-16 lg:px-20 xl:px-24">
       <img
         src={profileImg}
         alt={name}
-        className="w-64 h-64 rounded-full mt-5 mb-5"
+        className="w-48 sm:w-64 h-48 sm:h-64 rounded-full mt-5 mb-5"
       />
-      <h1 className="text-lime-700 font-bold mt-5 mb-5 animate-pulse">
+      <h1 className="text-lime-700 font-bold mt-5 mb-5 text-lg sm:text-xl animate-pulse">
         Name: {name} (A.K.A {alias})
       </h1>
-      <p className="text-lime-500 mt-5 mb-5">
+      <p className="text-lime-500 mt-5 mb-5 text-sm sm:text-base">
         Planet: {planetOfOrigin} | Age: {ageNumber} Earth Years
       </p>
-      <p className="text-lime-500 mt-5 mb-10">{backstory}</p>
+      <p className="text-lime-500 mt-5 mb-10 text-sm sm:text-base">
+        {backstory}
+      </p>
     </div>
   );
 };
