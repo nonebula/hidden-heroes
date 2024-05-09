@@ -6,7 +6,7 @@ const BackstoryLogic = ({
   const ageNumber = parseInt(age);
 
   return (
-    <div className="container mx-auto flex flex-col items-center mb-5 mt-5 px-4 sm:px-8 md:px-16 lg:px-20 xl:px-24">
+    <div className="bg-black border border-lime-500 px-4 sm:px-8 md:px-16 lg:px-20 xl:px-24 mx-4 sm:mx-8 md:mx-16 lg:mx-20 xl:mx-24 flex flex-col items-center font-roboto-mono">
       <img
         src={profileImg}
         alt={name}
